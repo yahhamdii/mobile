@@ -63,3 +63,5 @@ yarn-error.log
 .metro-health-check*
 
 .vscode
+package-lock.json
+yarn.lock
